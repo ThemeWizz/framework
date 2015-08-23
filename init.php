@@ -3,7 +3,7 @@
  Plugin Name: ThemeWizz
  Plugin URI: http://www.themewizz.com
  Description: ThemeWizz Framework
- Version: 1.00
+ Version: 1.01
  Author: ThemeWizz
  Author URI: http://www.themewizz.com
  */
