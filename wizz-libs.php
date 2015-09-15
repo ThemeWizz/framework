@@ -28,7 +28,7 @@ class WizzLibs
         'social'        => 'social.php',
         'fonts'         => 'fonts.php',
         'support'       => 'support.php',
-        'bootstra-nav'  => 'bootstrap-nav.php',
+        'bootstrap-nav' => 'bootstrap-nav.php',
     );
 
     /**
